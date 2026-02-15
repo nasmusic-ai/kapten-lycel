@@ -1,0 +1,5 @@
+{
+  "name": "Kapten/Lycel Wifi System",
+  "description": "A secure and modern wifi code management system for Kapten and Lycel networks, featuring offline validation and persistent usage tracking.",
+  "requestFramePermissions": []
+}
